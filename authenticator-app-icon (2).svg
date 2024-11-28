@@ -1,0 +1,44 @@
+<svg id="f93c517e-6154-4c0f-bccd-5c36be889b51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="a5602086-4d0c-4471-9796-ee5d30c5f5d7">
+      <path d="M57.9862,27.9044A11.1417,11.1417,0,0,0,48.4389,16.878c-.2689-.0673-.4707-.0673-.74-.1346a116.9142,116.9142,0,0,0-31.3986,0c-.2689.0673-.5379.0673-.74.1346A11.0909,11.0909,0,0,0,6.0138,27.9044c.0672,9.5474,3.0928,24.1372,18.893,33.9535a13.3623,13.3623,0,0,0,14.1193,0C54.9607,52.1089,57.9862,37.519,57.9862,27.9044Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="aadffa5a-8b08-482b-b1ae-70d0c79fe02d" x1="32" y1="82.3155" x2="32" y2="34.125" gradientTransform="matrix(1, 0, 0, -1, 0, 98)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0078d4"/>
+      <stop offset="1" stop-color="#1a508b"/>
+    </linearGradient>
+    <radialGradient id="aad11b4a-6926-4f0f-bbfb-98375cea7716" cx="32.2353" cy="29.8038" r="10.1035" gradientUnits="userSpaceOnUse">
+      <stop offset="0.3101" stop-color="#000d3f"/>
+      <stop offset="0.723" stop-color="#000d3f" stop-opacity="0.357"/>
+      <stop offset="1" stop-color="#000d3f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="e26a33bb-3227-4830-88c1-cb898e260139" cx="32.2353" cy="60.1164" r="19.6939" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000d3f"/>
+      <stop offset="0.3855" stop-color="#000d3f"/>
+      <stop offset="0.5499" stop-color="#000d3f" stop-opacity="0.943"/>
+      <stop offset="0.699" stop-color="#000d3f" stop-opacity="0.7683"/>
+      <stop offset="0.8421" stop-color="#000d3f" stop-opacity="0.4755"/>
+      <stop offset="0.9808" stop-color="#000d3f" stop-opacity="0.0667"/>
+      <stop offset="1" stop-color="#000d3f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="b53744cb-c66e-4491-ab30-5938382d8492" x1="32.2353" y1="78.0006" x2="32.2353" y2="58.5507" gradientTransform="matrix(1, 0, 0, -1, 0, 98)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.2969" stop-color="#40c4f5"/>
+      <stop offset="1" stop-color="#0095e6"/>
+    </linearGradient>
+    <linearGradient id="a8ec882f-baac-43a8-aad7-e73e190ec24b" x1="32.2352" y1="58.8941" x2="32.2352" y2="21.804" gradientTransform="matrix(1, 0, 0, -1, 0, 98)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.193" stop-color="#40c4f5"/>
+      <stop offset="1" stop-color="#0095e6"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M16.2762,17.0927c.255-.0668.4463-.0668.7013-.1336,1.466-.2,2.9321-.4009,4.3981-.5345A11.1313,11.1313,0,0,1,32.0843,7.54,11.1313,11.1313,0,0,1,42.793,16.4246c1.466.1336,2.9321.3341,4.3981.5345.255.0668.51.0668.7012.1336a14.5361,14.5361,0,0,1,2.2947.6012C49.5177,7.22,41.6456.125,32.0843.125S14.7146,7.22,14.0453,17.6939A12.25,12.25,0,0,1,16.2762,17.0927Z" fill="#215694"/>
+    <g clip-path="url(#a5602086-4d0c-4471-9796-ee5d30c5f5d7)">
+      <path d="M57.9862,27.9044A11.1417,11.1417,0,0,0,48.4389,16.878c-.2689-.0673-.4707-.0673-.74-.1346a116.9142,116.9142,0,0,0-31.3986,0c-.2689.0673-.5379.0673-.74.1346A11.0909,11.0909,0,0,0,6.0138,27.9044c.0672,9.5474,3.0928,24.1372,18.893,33.9535a13.3623,13.3623,0,0,0,14.1193,0C54.9607,52.1089,57.9862,37.519,57.9862,27.9044Z" fill="url(#aadffa5a-8b08-482b-b1ae-70d0c79fe02d)"/>
+      <circle cx="32.2353" cy="29.8038" r="10.1035" fill="url(#aad11b4a-6926-4f0f-bbfb-98375cea7716)"/>
+      <circle cx="32.2353" cy="60.1164" r="19.6939" fill="url(#e26a33bb-3227-4830-88c1-cb898e260139)"/>
+      <circle cx="32.2353" cy="29.8038" r="8.7405" fill="url(#b53744cb-c66e-4491-ab30-5938382d8492)"/>
+      <circle cx="32.2352" cy="58.7147" r="17.481" fill="url(#a8ec882f-baac-43a8-aad7-e73e190ec24b)"/>
+      <path d="M57.9675,27.9055a11.14,11.14,0,0,0-9.5439-11.0261c-.2688-.0672-.47-.0672-.7393-.1345a116.8222,116.8222,0,0,0-31.3873,0c-.2689.0673-.5377.0673-.7393.1345A11.09,11.09,0,0,0,6.0138,27.9055C6.081,37.4526,9.1055,52.042,24.9,61.858a13.3542,13.3542,0,0,0,14.1142,0C54.9431,52.1093,57.9675,37.52,57.9675,27.9055Z" fill="none"/>
+    </g>
+  </g>
+</svg>
